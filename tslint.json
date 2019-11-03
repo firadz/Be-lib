@@ -1,0 +1,84 @@
+{
+    "rules": {
+        "class-name": true,
+        "comment-format": [
+            true,
+            "check-space"
+        ],
+        "curly": true,
+        "cyclomatic-complexity": [
+            true,
+            50
+        ],
+        "indent": [
+            true,
+            "spaces"
+        ],
+        "max-file-line-count": [
+            true,
+            500
+        ],
+        "max-line-length": [
+            true,
+            120
+        ],
+        "new-parens": true,
+        "no-bitwise": true,
+        "no-conditional-assignment": true,
+        "no-consecutive-blank-lines": true,
+        "no-console": [
+            true,
+            "log",
+            "error"
+        ],
+        "no-debugger": true,
+        "no-duplicate-variable": true,
+        "no-empty": true,
+        "no-eval": true,
+        "no-internal-module": true,
+        "no-trailing-whitespace": true,
+        "no-unsafe-finally": true,
+        "no-var-keyword": true,
+        "one-line": [
+            true,
+            "check-open-brace",
+            "check-whitespace"
+        ],
+        "only-arrow-functions": [
+            true,
+            "allow-declarations"
+        ],
+        "quotemark": [
+            true,
+            "single",
+            "jsx-double"
+        ],
+        "semicolon": true,
+        "triple-equals": [
+            true,
+            "allow-null-check"
+        ],
+        "typedef-whitespace": [
+            true,
+            {
+                "call-signature": "nospace",
+                "index-signature": "nospace",
+                "parameter": "nospace",
+                "property-declaration": "nospace",
+                "variable-declaration": "nospace"
+            }
+        ],
+        "variable-name": [
+            false,
+            "ban-keywords"
+        ],
+        "whitespace": [
+            true,
+            "check-branch",
+            "check-decl",
+            "check-operator",
+            "check-separator",
+            "check-type"
+        ]
+    }
+}
