@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "622423906819",
+    "firebase_url": "https://belib-20ed0.firebaseio.com",
+    "project_id": "belib-20ed0",
+    "storage_bucket": "belib-20ed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622423906819:android:9d530834f8b0118c4b0c36",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622423906819-p7688d8es0sedepjrhc6jmsn0num2i84.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "host.exp.exponent",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf627"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxdVoIbKtbNhXq4A3h137lBSGlkAlZzL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622423906819-pgfsbh5tjeb82oe96msqo9ceeadrkdms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
